@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Bibliophile Framework\1.5\Assemblies\Bibliophile Framework.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Bibliophile Framework\1.5\Source\Bibliophile Framework\obj\Debug\Bibliophile Framework.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Bibliophile Framework\1.5\Source\Bibliophile Framework\obj\Debug\Bibliophile Framework.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Bibliophile Framework\1.5\Source\Bibliophile Framework\obj\Debug\Bibliophile Framework.dll

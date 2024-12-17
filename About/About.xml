@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Bibliophile Framework</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.framework.bibliophile</packageId>
+  <description>Framework with shared code for my book mods, also made available to anyone who want's to use it.</description>
+  <modDependencies>
+  </modDependencies>
+</ModMetaData>
